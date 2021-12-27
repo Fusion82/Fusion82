@@ -1,0 +1,7 @@
+-- Gui to Lua
+-- Version 1.0 
+
+-- Instances:
+
+Local ScreenGui = 
+Instance.new("screenGUI")
